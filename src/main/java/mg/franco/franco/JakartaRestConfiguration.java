@@ -1,4 +1,4 @@
-package mg.franco.francotp2;
+package mg.franco.franco;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

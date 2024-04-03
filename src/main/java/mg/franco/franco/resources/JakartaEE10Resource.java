@@ -1,4 +1,4 @@
-package mg.franco.francotp2.resources;
+package mg.franco.franco.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
